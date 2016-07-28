@@ -18,7 +18,7 @@
             android:layout_weight="1"/>
         <Button
             android:id="@+id/staggeredGridLayoutManager"
-            android:text="瀑布式布局管理器"
+            android:text="瀑布就式布局管理器"
             android:layout_width="0.0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
